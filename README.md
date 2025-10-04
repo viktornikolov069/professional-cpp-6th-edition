@@ -7,7 +7,7 @@ It contains:
 
 ---
 
-## 📚 About the Project
+## About the Project
 This repo is primarily for **learning and practice**.  
 I’m experimenting with modern C++ features, design patterns, and best practices as presented in the book.  
 
@@ -18,7 +18,7 @@ Feel free to:
 
 ---
 
-## 📖 Progress
+## Progress
 - [x] Chapter 1: A Crash Course in C++ and the Standard Library
 - [x] Chapter 2: Working with Strings and String Views
 - [x] Chapter 3: Coding with Style
@@ -58,7 +58,7 @@ Feel free to:
 
 ---
 
-## ⚙️ Building & Running
+## Building & Running
 Most examples can be compiled with a C++20 (or later) compiler.  
 
 Example using `g++`:
@@ -76,13 +76,13 @@ make
 
 ---
 
-## 📝 License
+## License
 This repository is licensed under the [MIT License](LICENSE).  
 The book itself is copyrighted material; this repo only contains **my own notes and code written while learning**.
 
 ---
 
-## 🙌 Acknowledgments
+## Acknowledgments
 - Marc Gregoire, for writing *Professional C++ (6th Edition)*  
 - The C++ community, for countless resources and discussions
 
