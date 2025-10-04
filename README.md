@@ -69,9 +69,12 @@ g++ -std=c++20 -Wall -Wextra -o example examples/example.cpp
 
 Or, if using CMake:
 ```bash
-mkdir build && cd build
-cmake ..
-make
+cmake -B build
+cmake --build ./build/ --parallel
+
+# Optional for ch03_style / Doxygen
+# Example: cmake --build build --target employee_database_docs
+cmake --build build --target <doxygen build target>
 ```
 
 ---
