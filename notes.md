@@ -141,6 +141,8 @@
 
 ### Designing Professional C++ Programs
 
+1. Abstraction is a mechanism that separates an interface from its implementation, allowing the implementation to change without affecting how the interface is used. This way we could change the implementation all we want without affecting the interface. The TV is a great example of good abstraction as the core of its interface has stayed consistent for more than 30 years, however the way in which the TV works has had a few different implementations and updates. Thanks to the well designed layer of abstraction the end user remains unaffected and often unaware of these changes.
+
 ## Appendices
 
 ### Designated Initializers
