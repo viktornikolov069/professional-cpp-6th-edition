@@ -2,16 +2,19 @@
 
 This repository documents my journey through **Professional C++ (6th Edition)** by Marc Gregoire.  
 It contains:
+
 - **Code examples & exercises**: My implementations while working through the book.
-- **Notes (`notes.md`)**: Key takeaways, summaries, and personal insights.
+- **Notes (**[notes.md](notes.md)**)**: Key takeaways, summaries, and personal insights.
 
 ---
 
 ## About the Project
+
 This repo is primarily for **learning and practice**.  
 I’m experimenting with modern C++ features, design patterns, and best practices as presented in the book.  
 
 Feel free to:
+
 - Browse the code and notes.
 - Clone the repo and try the exercises yourself.
 - Suggest improvements or alternative solutions.
@@ -19,6 +22,7 @@ Feel free to:
 ---
 
 ## Progress
+
 - [x] Chapter 1: A Crash Course in C++ and the Standard Library
 - [x] Chapter 2: Working with Strings and String Views
 - [x] Chapter 3: Coding with Style
@@ -54,20 +58,23 @@ Feel free to:
 - [ ] Chapter 33: Applying Design Patterns
 - [ ] Chapter 34: Developing Cross‑Platform and Cross‑Language Applications
 
-*(Chapters will be marked as completed as I progress.)*
+*Chapters will be marked as completed as I progress.*
 
 ---
 
 ## Building & Running
+
 Most examples can be compiled with a C++20 (or later) compiler.  
 
 Example using `g++`:
+
 ```bash
-g++ -std=c++20 -Wall -Wextra -o example examples/example.cpp
+g++ -std=c++20 -Wall -Wextra -o example examples/   example.cpp
 ./example
 ```
 
 Or, if using CMake:
+
 ```bash
 cmake -B build
 cmake --build ./build/ --parallel
@@ -80,12 +87,14 @@ cmake --build build --target <doxygen build target>
 ---
 
 ## License
+
 This repository is licensed under the [MIT License](LICENSE).  
 The book itself is copyrighted material; this repo only contains **my own notes and code written while learning**.
 
 ---
 
 ## Acknowledgments
+
 - Marc Gregoire, for writing *Professional C++ (6th Edition)*  
 - The C++ community, for countless resources and discussions
 
