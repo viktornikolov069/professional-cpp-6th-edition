@@ -134,7 +134,7 @@
 9. **Invariant**: A condition that must be true during the execution of a piece of code.
    - Class invariants are conditions that must be true for the lifetime of an object
    - Function invariants are conditions that must be true at specific points during function execution
-   ![Class Invariant Example](../docs/data/invariant.png)
+   - ![Class Invariant Example](../docs/data/invariant.png)
    - Link to stackoverflow: <https://softwareengineering.stackexchange.com/questions/32727/what-are-invariants-how-can-they-be-used-and-have-you-ever-used-it-in-your-pro>
 
 ### Coding with style
