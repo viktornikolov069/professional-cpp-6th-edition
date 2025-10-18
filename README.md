@@ -4,7 +4,7 @@ This repository documents my journey through **Professional C++ (6th Edition)** 
 It contains:
 
 - **Code examples & exercises**: My implementations while working through the book.
-- **Notes (**[notes.md](notes.md)**)**: Key takeaways, summaries, and personal insights.
+- **Notes (**[notes.md](docs/notes.md)**)**: Key takeaways, summaries, and personal insights.
 
 ---
 
